@@ -2,7 +2,7 @@
 - 👀 I’m interested in sudoku and fresh fruit
 - 🌱 I’m currently learning how to handle fame
 - 💞️ I’m looking to collaborate on the best thing ever called jobeagle
-- 📫 How to reach me anytime anywhere peekaboo
+- 📫 How to reach me anytime anywhere peek-a-boo
 
 <!---
 Deliaspatz/Deliaspatz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
